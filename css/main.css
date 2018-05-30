@@ -7,7 +7,7 @@
 /*
   Lista de cores do site:
 
-  vermelho    #F16B6F
+  vermelho    #30A9DE
   Cinza       #C5C6B6
   Verde       #AACD6E
   Preto       #3C3530
@@ -25,15 +25,15 @@ p {
 }
 
 a {
-  color: #F16B6F;
+  color: #30A9DE;
 }
 
 a:hover {
-  color: #F16B6F;
+  color: #30A9DE;
 }
 
 .text-primary {
-  color: #F16B6F !important;
+  color: #30A9DE !important;
 }
 
 h1.section-title {
@@ -168,12 +168,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #F16B6F;
+  background: #30A9DE;
   text-shadow: none;
 }
 
 ::selection {
-  background: #F16B6F;
+  background: #30A9DE;
   text-shadow: none;
 }
 
@@ -204,12 +204,12 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #F16B6F;
+  background-color: #30A9DE;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color: #F16B6F;
+  color: #30A9DE;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -230,18 +230,18 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #F16B6F;
+  color: #30A9DE;
 }
 
 .btn-custom {
-  background-color: #F16B6F;
-  border-color: #F16B6F;
+  background-color: #E53A40;
+  border-color: #E53A40;
   color: #FFF;
 }
 
 .btn-custom:hover, .btn-custom:active, .btn-custom:focus {
-  background-color: #C65146;
-  border-color: #C65146;
+  background-color: #F16B6F;
+  border-color: #F16B6F;
   color: #FFF;
 }
 
@@ -573,7 +573,7 @@ a.portfolio-link .img-fluid:hover {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #F16B6F;
+  background-color: #30A9DE;
 }
 
 .timeline > li .timeline-image h4 {
@@ -936,7 +936,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #F16B6F;
+  border-color: #30A9DE;
   box-shadow: none;
 }
 
