@@ -1,0 +1,15 @@
+{
+    "name": "root/biblioteca",
+    "authors": [
+        {
+            "name": "Victor Hugo de Souza Vieira",
+            "email": "victor.vieira@tray.net.br"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Library\\": "App/"
+    	}
+    },
+    "require": {}
+}
