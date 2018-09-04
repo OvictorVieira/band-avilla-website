@@ -21,7 +21,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.55;
 }
 
 a {
@@ -274,7 +274,7 @@ img::-moz-selection {
 }
 
 header.masthead {
-  height: 800px;
+  height: 100vh;
   max-height: 1000px;
   background-image: url("../img/banner/logo-banner.jpg");
   background-repeat: no-repeat;
@@ -640,6 +640,14 @@ a.portfolio-link .img-fluid:hover {
   z-index: 999;
 }
 
+.card-img {
+	min-height: 30vh;
+}
+
+.card-text {
+	min-height: 20vh;
+}
+
 @media (max-width: 767px) {
   #img-banner-menu {
     display: none;
@@ -810,7 +818,7 @@ a.portfolio-link .img-fluid:hover {
   header.masthead {
     background-size: cover;
     background-position: 50% 15%;
-    height: 800px;
+    height: 100vh;
   }
   .timeline > li {
     min-height: 170px;
